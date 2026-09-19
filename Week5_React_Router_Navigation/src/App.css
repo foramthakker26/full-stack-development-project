@@ -1,0 +1,44 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f7fc;
+  color: #17365d;
+}
+
+.app {
+  max-width: 850px;
+  margin: 60px auto;
+  padding: 40px;
+  text-align: center;
+  background: white;
+  border-radius: 18px;
+  box-shadow: 0 8px 25px rgba(0,0,0,.08);
+}
+
+h1 { margin-bottom: 28px; }
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 28px;
+  margin-bottom: 35px;
+}
+
+nav a {
+  color: #1677e8;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+main {
+  padding: 35px 20px;
+  border-radius: 14px;
+  background: #eef6ff;
+}
+
+section p {
+  color: #5d6b7d;
+  font-size: 17px;
+}
