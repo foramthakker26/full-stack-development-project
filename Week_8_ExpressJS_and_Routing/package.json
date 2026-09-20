@@ -1,0 +1,8 @@
+{
+  "name": "week8-express-routing",
+  "version": "1.0.0",
+  "description": "Week 8 - Express.js and Routing",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^5.1.0"}
+}
